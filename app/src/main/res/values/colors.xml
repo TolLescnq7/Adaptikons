@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Splash Screen -->
+    <color name="splashColor">#FFF</color>
+    <!-- Shortcut Icons -->
+    <color name="shortcutIconBackground">#26C484</color>
+    <color name="shortcutIconForeground">#FFF</color>
+    <!-- Themed Icons -->
+    <color name="iconBackground">#D5E3FE</color>
+    <color name="iconForeground">#1E477F</color>
+</resources>
