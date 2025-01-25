@@ -2,6 +2,6 @@
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
     <background android:drawable="@color/iconBackground" />
     <foreground
-        android:tint="@color/iconForeground"
+        android:fillColor="@color/iconForeground"
         android:drawable="@drawable/ic_facebook" />
 </adaptive-icon>
