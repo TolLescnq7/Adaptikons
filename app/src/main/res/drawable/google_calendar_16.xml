@@ -3,5 +3,5 @@
     <background android:drawable="@color/iconBackground" />
     <foreground
         android:tint="@color/iconForeground"
-        android:drawable="@drawableic_google_calendar_16" />
+        android:drawable="@drawable/ic_google_calendar_16" />
 </adaptive-icon>
