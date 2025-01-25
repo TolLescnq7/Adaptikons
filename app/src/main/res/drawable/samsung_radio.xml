@@ -4,4 +4,4 @@
     <foreground
         android:tint="@color/iconForeground"
         android:drawable="@drawable/ic_samsung_radio" />
-</adaptive-icon>on>
+</adaptive-icon>
