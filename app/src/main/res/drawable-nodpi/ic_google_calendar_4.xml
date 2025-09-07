@@ -7,9 +7,9 @@
     android:viewportHeight="90.0"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <path
-        android:fillColor="#ffffffff"
+        android:fillColor="@android:color/white"
         android:pathData="M57,51.255L51.255,57H33V33H57V51.255ZM33,30C31.35,30 30,31.35 30,33V57C30,58.65 31.35,60 33,60H52.5L60,52.5V33C60,31.35 58.65,30 57,30H33Z" />
     <path
-        android:fillColor="#ffffffff"
+        android:fillColor="@android:color/white"
         android:pathData="M40.727,47.734V46.038L45.591,38.806H47.863V45.782H49.223V47.734H47.863V49.75H45.767V47.734H40.727ZM43.047,45.782H45.767V41.926H45.639L43.047,45.782Z" />
 </vector>
