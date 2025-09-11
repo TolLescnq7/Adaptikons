@@ -79,5 +79,5 @@
     <item component="ComponentInfo{com.google.android.apps.photosgo/com.google.android.apps.photosgo.home.HomeActivity}" drawable="google_gallery" />
     <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_" />
     <item component="ComponentInfo{com.sec.android.app.fm/com.sec.android.app.fm.MainActivity}" drawable="samsung_radio" />
-
+    <item component="ComponentInfo{de.knowunity.app/de.knowunity.app.MainActivity}" drawable="knowunity" />
 </resources>
