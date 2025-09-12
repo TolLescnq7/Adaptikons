@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Apktool M – https://maximoff.su/apktool -->
 <vector
-    android:tint="@color/iconForeground"
+    android:tint="@color=iconForeground"
 	xmlns:android="http://schemas.android.com/apk/res/android"
 	android:width="108dp"
 	android:height="108dp"
@@ -9,5 +9,5 @@
 	android:viewportHeight="108">
 	<path
 		android:fillColor="#ffffffff"
-		android:pathData="M75.6671 17C78.0601 17 80 18.9399 80 21.3329V21.3329C80 22.406 79.6018 23.4408 78.8826 24.2372L55.6325 49.9783C53.5693 52.2625 53.5693 55.7375 55.6325 58.0217L78.8826 83.7628C79.6018 84.5592 80 85.594 80 86.6671V86.6671C80 89.0601 78.0601 91 75.6671 91H35C31.6863 91 29 88.3137 29 85V23C29 19.6863 31.6863 17 35 17H75.6671Z" />
+		android:pathData="M68.1881 30C69.7411 30 71 31.259 71 32.8119V32.8119C71 33.5072 70.7425 34.1777 70.2771 34.6942L56.5011 49.9837C54.4444 52.2663 54.4444 55.7337 56.5011 58.0163L70.2771 73.3058C70.7425 73.8223 71 74.4928 71 75.1881V75.1881C71 76.741 69.741 78 68.1881 78H44C40.6863 78 38 75.3137 38 72V36C38 32.6863 40.6863 30 44 30H68.1881Z" />
 </vector>
