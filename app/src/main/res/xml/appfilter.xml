@@ -84,4 +84,5 @@
     <item component="ComponentInfo{com.zhiliaoapp.musically.go/com.ss.android.ugc.aweme.main.homepage.MainActivity}" drawable="tiktok_lite" />
     <item component="ComponentInfo{com.alightcreative.motion/com.alightcreative.app.motion.activities.main.MainActivity}" drawable="alight_motion" />
     <item component="ComponentInfo{com.alightcreative.motior/com.alightcreative.app.motion.activities.main.MainActivity}" drawable="alight_motion" />
+    <item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="discord" />
 </resources>
