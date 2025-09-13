@@ -144,7 +144,7 @@
 
     <!-- Enable if your icon pack includes adaptive icons.
         When enabled, the dashboard shows an Icon Shape changer button -->
-    <bool name="includes_adaptive_icons">false</bool>
+    <bool name="includes_adaptive_icons">true</bool>
 
     <!-- Icons section will read icons from drawable.xml same as Nova Launcher
         Put drawable.xml inside the "xml" folder -->
@@ -202,7 +202,7 @@
     <!-- Enable non-mailing app to be able to send icon requests.
         By default, you can only send request using mailing apps like Gmail, Outlook etc.
         If you enable this option, your users will be able to send requests using almost any app, not just mailing apps. -->
-    <bool name="enable_non_mail_app_request">false</bool>
+    <bool name="enable_non_mail_app_request">true</bool>
 
     <!-- Hide missing app count
         In home page there is a card that shows information about how many icons are missing and covered by your icon pack app.

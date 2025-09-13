@@ -91,4 +91,8 @@
     <item drawable="google_calendar_29" />
     <item drawable="google_calendar_30" />
     <item drawable="google_calendar_31" />
+    <item drawable="knowunity" />
+    <item drawable="tiktok" />
+    <item drawable="tiktok_lite" />
+    <item drawable="discord" />
 </resources>
