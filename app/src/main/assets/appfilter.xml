@@ -86,4 +86,5 @@
     <item component="ComponentInfo{com.alightcreative.motior/com.alightcreative.app.motion.activities.main.MainActivity}" drawable="alight_motion" />
     <item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="discord" />
     <item component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}" drawable="minecraft" />
+    <item component="ComponentInfo{ai.blurrr.video/ai.blurrr.video.MainActivity}" drawable="blurrr" />
 </resources>
