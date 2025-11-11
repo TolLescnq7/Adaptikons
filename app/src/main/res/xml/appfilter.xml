@@ -87,4 +87,5 @@
     <item component="ComponentInfo{com.discord/com.discord.main.MainDefault}" drawable="discord" />
     <item component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}" drawable="minecraft" />
     <item component="ComponentInfo{ai.blurrr.video/ai.blurrr.video.MainActivity}" drawable="blurrr" />
+    <item component="ComponentInfo{org.khanacademy.android/org.khanacademy.android.ui.library.MainActivity}" drawable="khan_academy" />
 </resources>
