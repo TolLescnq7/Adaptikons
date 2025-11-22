@@ -88,4 +88,6 @@
     <item component="ComponentInfo{com.mojang.minecraftpe/com.mojang.minecraftpe.MainActivity}" drawable="minecraft" />
     <item component="ComponentInfo{ai.blurrr.video/ai.blurrr.video.MainActivity}" drawable="blurrr" />
     <item component="ComponentInfo{org.khanacademy.android/org.khanacademy.android.ui.library.MainActivity}" drawable="khan_academy" />
+    <item component="ComponentInfo{jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.InitializeCheckActivity}" drawable="ibis_paint" />
+    <item component="ComponentInfo{jp.ne.ibis.ibispaint.app/jp.ne.ibis.ibispaint.app.InitializeCheckActivity}" drawable="ibis_paint" />
 </resources>
